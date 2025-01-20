@@ -79,5 +79,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Author
-- [Your GitHub Profile](https://github.com/yourusername)
+## Connect with me on Linkedin
+- [Your linkedin Profile](https://www.linkedin.com/in/daniel-mwendwa-bsc-a475311b7/)
